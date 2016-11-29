@@ -1,4 +1,3 @@
-
 package com.tm.confsvr;
 
 import org.springframework.boot.SpringApplication;
