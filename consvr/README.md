@@ -1,4 +1,3 @@
-Create a licensingservice directory in /tmp and put licensingservice.yml
-in that folder.
+Config resources are served out of resource/config/<service name>
 
 Run via `mvn spring-boot:run`
