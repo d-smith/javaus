@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: licensingservice
+  profiles:
+    active:
+      default
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+#    cloud:
+#      config:
+#        uri: http://localhost:8888
